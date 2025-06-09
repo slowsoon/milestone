@@ -1,4 +1,4 @@
-# Experiment 1: Performance Test According to Number of Aircraft 
+# Experiment 1: Measuring response time based on the number of aircraft 
 
 
 ## Results and recommendations 
@@ -13,9 +13,8 @@ The results will help identify system performance thresholds, bottlenecks, and a
 [***Planned*** | In progress | Suspended | Canceled | Concluded]
 
 ## Expected outcomes
- - Performance test logs and statistical data
- - Graphs showing performance changes according to the number of aircraft
- - CPU and memory usage analysis by aircraft count
+ - Response time graph from aircraft click to on-screen selection by aircraft count
+ - CPU and memory usage graph by aircraft count
 
 ## Resources required
  - Software: Flight Tracker client
